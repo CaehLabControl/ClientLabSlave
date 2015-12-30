@@ -1,0 +1,2 @@
+# ClientLabSlave
+Control Laboratorio Cliente
